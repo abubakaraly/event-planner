@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Team Meeting",
+      "description": "Monthly team meeting",
+      "category": "Meetings",
+      "date": "2025-05-01T10:00:00Z",
+      "reminder": "2025-05-01T09:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Doctor Appointment",
+      "description": "Annual checkup",
+      "category": "Appointments",
+      "date": "2025-05-05T15:00:00Z",
+      "reminder": "2025-05-05T14:30:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Birthday Party",
+      "description": "Friend's birthday celebration",
+      "category": "Birthdays",
+      "date": "2025-06-10T19:00:00Z",
+      "reminder": "2025-06-10T18:30:00Z"
+    }
+  ]
+  
